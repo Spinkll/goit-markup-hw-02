@@ -98,7 +98,7 @@ a {
   color: #2e2f42;
 }
 
-.name-teammate {
+.name-worker {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -106,7 +106,7 @@ a {
   color: #2e2f42;
 }
 
-.type-teammate {
+.type-worker {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -144,6 +144,16 @@ a {
 a:hover,
 a:focus {
   color: #404bbf;
+}
+
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .footer {
